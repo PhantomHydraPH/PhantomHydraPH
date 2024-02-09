@@ -16,7 +16,7 @@
 - [ProjectSend](https://ph.omg.lol/ps)
 - [Ark Corporation](https://ark.ph.omg.lol)
 - [UP notes](https://up.ph.omg.lol)
-- ASTR-OS _(coming soon?)_
+- ASTR-OS _(~~coming soon?~~ Private release)_
 
 📫 Contact
 ---
