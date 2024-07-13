@@ -13,11 +13,11 @@
 🔭 Projects
 ---
 - pH Labs
-- [ProjectSend](https://ph.omg.lol/ps)
+- [ProjectSend instance](https://ph.omg.lol/ps)
 - [Ark Corporation](https://ark.ph.omg.lol)
 - [UP notes](https://up.ph.omg.lol)
 - ASTR-OS _(private release)_
-- Project Opal _(soon, private release)_
+- Project Opal _(private release)_
 
 📫 Contact
 ---
