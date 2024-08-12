@@ -17,7 +17,7 @@
 - [Ark Corporation](https://ark.ph.omg.lol)
 - [UP notes](https://up.ph.omg.lol)
 - ASTR-OS _(private release)_
-- Project Opal _(private release)_
+- [Project Opal](https://opal.ph.omg.lol) _(private release)_
 
 📫 Contact
 ---
