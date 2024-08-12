@@ -38,4 +38,8 @@
 - [Snowflake](https://relay.love)
 - [OONI Probe](https://ooni.org)
 
+***
+
+ [Services status](https://phlabs.statuspage.io)
+
 *Have a wonderful day! ❤️*
